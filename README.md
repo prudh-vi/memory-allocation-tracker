@@ -48,7 +48,8 @@ When you deallocate memory (by pressing 'd'), the application:
 
 ## Screenshots
 
-(Add screenshots here)
+(![Screenshot](sample.png)
+
 
 
 ## Requirements
